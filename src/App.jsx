@@ -13,15 +13,22 @@ function App() {
         😉
       </p>
 
-      <p>
+      <footer>
         This page was coded by
         <a href="https://gallant-colden-8ef37b.netlify.app" target="_blank">
           {" "}
           MWNakahara
         </a>{" "}
         and is
-        <a href="https://"> open-sourced</a>.
-      </p>
+        <a
+          href="https://github.com/mwnakahara/1picamonth-trilionlife"
+          target="_blank"
+        >
+          {" "}
+          open-sourced
+        </a>
+        .
+      </footer>
     </div>
   );
 }
